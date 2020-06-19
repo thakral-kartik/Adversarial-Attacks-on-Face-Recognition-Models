@@ -1,0 +1,8 @@
+References:
+
+1. To create patches over the eyes in the facial images, Haar-cascade is used for the code was inspired from: http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html
+2. A file was extracted directly from dlib library and kept locally for faster access and working. :https://github.com/ColeMurray/medium-facenet-tutorial/blob/master/medium_facenet_tutorial/align_dlib.py
+3. The code for Gaussian noise, salt and pepper noise, spekle noise was inspired from this link: https://github.com/amilich/face/blob/master/noise.py
+4. The idea of eye patches and using grid lines as noise was inspired from this link: https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17334/16267
+5. The idea of random noise was inspired from this link: https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8
+6. The face pipeline employed for attack was inspired from this link: https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8
