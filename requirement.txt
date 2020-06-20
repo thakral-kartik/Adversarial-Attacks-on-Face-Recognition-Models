@@ -1,5 +1,0 @@
-Requirements:
-
-1. haarcascade_eye.xml for locating eyes in the image and create a patch over it.
-2. facenet_keras.h5 file is used to load the facenet model in the code.
-3. Keras library is must for loading facenet and VGGface weights.
